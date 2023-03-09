@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1AF sort
+ls -1AF -m
